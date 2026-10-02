@@ -8141,6 +8141,7 @@
     },
     "settings": {
       "title": "Customize Dashboard",
+      "preferencesTitle": "Dashboard preferences",
       "tabs": {
         "widgets": "Widgets",
         "shelves": "Shelves"
@@ -8177,6 +8178,11 @@
         "twoColumns": "Two columns",
         "twoColumnsDescription": "Show two shelves per row."
       },
+      "shelfSync": {
+        "label": "Sync shelves across sessions",
+        "description": "Save shelf order, visibility, row counts, and layout to your account. When off, shelf settings stay in this browser."
+      },
+      "saveFailed": "Could not save dashboard settings. Check your connection and try again.",
       "libraryScope": {
         "title": "Dashboard libraries",
         "description": "Choose which libraries contribute books and reading data to this dashboard.",
